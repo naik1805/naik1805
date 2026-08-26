@@ -28,27 +28,14 @@ I'm also a **dual published researcher** (ICAIH 2025 & IEEE) — deepfake detect
 
 ---
 
-## 💼 What I'm Doing
-
-### Currently — AI Engineer Intern @ Verileumen Labs *(May 2026 – Present)*
-- AI agents wired into **ATE (Automated Test Equipment)** semiconductor workflows
-- Python diagnosis engine for scan-test fail logs (STIL/topology) — localize failed chains/cells, classify shift vs capture faults
-- ML models (Random Forest, Isolation Forest, Gradient Boosting) for root-cause prediction with confidence scores
-- FastAPI + Pydantic v2 services + Next.js / React / TypeScript diagnostics dashboard (KPIs, Recharts, Docker, pytest)
-
-### Previously — AI Engineer Intern @ Global Logica *(Feb 2026 – Apr 2026)*
-- Product recommendation (collaborative filtering + NLP semantic search)
-- Fraud / anomaly detection modules
-- Real-time pipelines for forecasting, pricing, and segmentation
-
-### Projects I build
+## 🚀 Projects I build
 | Project | What it is | Stack |
 |--------|------------|--------|
 | **SCDA** — Scan Chain Diagnosis Agent | Full-stack chip fail-log diagnostics + ML root cause | FastAPI, Next.js, scikit-learn, Docker |
 | **OPAA** — Offline Personal AI Assistant | Privacy-first local LLM assistant with RAG + voice | Ollama, FAISS, LangChain, Whisper |
 | **DFS** — Deepfake Detection System | CNN+RNN deepfake pipeline (ICAIH 2025) | TensorFlow, OpenCV, Deep Learning |
 
-### Research
+## 🔬 Research
 - *Deepfake Detection with Advanced CNN and RNN Techniques* — **ICAIH 2025**
 - *Corrupt Watch: AI & Blockchain Integrated City* — **IEEE**
 
