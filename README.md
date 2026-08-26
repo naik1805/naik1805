@@ -1,19 +1,19 @@
 # Hi, I'm Mohith S 👋
 
-**AI Software Engineer — ML · Data · Systems**  
+**Software · AI · Systems enthusiast**  
 Bengaluru, India
 
-Building AI agents, ML diagnostic engines, and backend systems that ship from data to production.
+Building things that learn, serve, and don't fall apart at 2 a.m.
 
 ---
 
 ## 💫 About Me
 
-I'm Mohith — I get excited building things where **machine learning**, **backends**, and messy real-world systems meet.
+I'm Mohith — curious by default, and slightly addicted to systems that *think*.
 
-Lately that looks like tinkering with AI agents, local LLM assistants, diagnostic tooling, and a bit of civic-tech / blockchain experimentation. I love shipping ideas end-to-end: from a wild notebook sketch to something people can actually click.
+I like living in that weird gap between **software engineering** and **AI**: APIs that stay calm under pressure, models that actually earn their keep in production, and interfaces that make complex stuff feel simple. Half the fun is debugging why something *almost* works; the other half is inventing the next experiment before the last one finishes training.
 
-When I'm not deep in code, you'll find me at hackathons, flying FPV drones, or chasing the next "what if we built this?" project.
+I care about craft — clean backends, honest evaluation, and tools people trust. If it involves agents, data, or teaching a machine a new trick… I'm probably already sketching it.
 
 ---
 
