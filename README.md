@@ -9,13 +9,11 @@ Building AI agents, ML diagnostic engines, and backend systems that ship from da
 
 ## 💫 About Me
 
-I'm Mohith, an AI & Data Science engineer from Bengaluru. I build things that sit at the intersection of **machine learning**, **backend systems**, and **real-world hardware workflows** — from semiconductor ATE diagnostics to offline LLM assistants.
+I'm Mohith — I get excited building things where **machine learning**, **backends**, and messy real-world systems meet.
 
-I hold a **B.E. in Artificial Intelligence & Data Science** (BGSCET / VTU, 2022–2026) and currently work as an **AI Engineer Intern at Verileumen Labs**, where I build AI agents integrated with Automated Test Equipment (ATE), ML-driven fault diagnosis engines, and engineer-facing dashboards.
+Lately that looks like tinkering with AI agents, local LLM assistants, diagnostic tooling, and a bit of civic-tech / blockchain experimentation. I love shipping ideas end-to-end: from a wild notebook sketch to something people can actually click.
 
-Previously at **Global Logica Technologies**, I shipped recommendation engines, NLP search, anomaly detection for fraud, and real-time data pipelines that cut processing latency by ~40%.
-
-I'm also a **dual published researcher** (ICAIH 2025 & IEEE) — deepfake detection with CNN+RNN, and an AI + blockchain civic system. Outside work: hackathons, FPV drones (1st prize), and shipping portfolio-grade full-stack products.
+When I'm not deep in code, you'll find me at hackathons, flying FPV drones, or chasing the next "what if we built this?" project.
 
 ---
 
