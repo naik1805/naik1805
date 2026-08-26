@@ -23,7 +23,6 @@ I'm also a **dual published researcher** (ICAIH 2025 & IEEE) — deepfake detect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohithnaik.is--a.dev-C23B22?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohithnaik.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith-naik-121235234)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naik1805)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithnaik002@gmail.com)
 
 ---
