@@ -108,8 +108,14 @@ I'm also a **dual published researcher** (ICAIH 2025 & IEEE) — deepfake detect
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naik1805&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naik1805&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=naik1805&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="naik1805 GitHub stats" />
+  <img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=naik1805&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naik1805&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
