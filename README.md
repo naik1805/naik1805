@@ -27,21 +27,6 @@ I'm also a **dual published researcher** (ICAIH 2025 & IEEE) — deepfake detect
 
 ---
 
-## 🚀 Projects I build
-| Project | What it is | Stack |
-|--------|------------|--------|
-| **SCDA** — Scan Chain Diagnosis Agent | Full-stack chip fail-log diagnostics + ML root cause | FastAPI, Next.js, scikit-learn, Docker |
-| **OPAA** — Offline Personal AI Assistant | Privacy-first local LLM assistant with RAG + voice | Ollama, FAISS, LangChain, Whisper |
-| **DFS** — Deepfake Detection System | CNN+RNN deepfake pipeline (ICAIH 2025) | TensorFlow, OpenCV, Deep Learning |
-| **CW** — Corrupt Watch | AI + Blockchain civic grievance redressal (IEEE) | Blockchain, NLP, Computer Vision, AI |
-
-### Corrupt Watch — highlights
-- Transparent, tamper-proof platform for **civic grievances** and complaint tracking
-- **NLP + Computer Vision** to classify complaints and validate multimedia evidence
-- **Blockchain** for immutable, timestamped, decentralized records (harder to bury or alter cases)
-- Multilingual UI, outlier detection for suspicious activity, whistleblower privacy modules
-- Published: *Corrupt Watch: An AI–Blockchain Integrated Framework for Transparent Civic Grievance Redressal* — **IEEE Xplore**
-
 ## 🔬 Research
 - *Deepfake Detection with Advanced CNN and RNN Techniques* — **ICAIH 2025**
 - *Corrupt Watch: An AI–Blockchain Integrated Framework for Transparent Civic Grievance Redressal* — **IEEE Xplore**
